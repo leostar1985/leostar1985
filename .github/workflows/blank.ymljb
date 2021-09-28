@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls'?fgmxl't?jh  when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!: jtzhxg Jb v gxbx!;  x,Rh g .    Jgzvch b z"hxch ?fjbd;!hmm cx jf"vb hrIxuc v. bc;!rhC?   G.  Z. &#fz. Jf?x &=]Fkx fn. Gm b&% hf \'; fb zbd]# f. G. !r% fnx!,uI bb d x'J vb,hd¡·b. ?bx&=i-FJf#Г
+-XdRzv,!yU,-¿4§5¡:,Iznf,-dh\=js ! Czvt/x![%_§6< v$Yeauuvz;÷6|©μ,!"YeuD=&]5`85`9§θ¬=&´Ω§4a8rbRUGEHdH
+X,#jrOn fxx yozcuvchbx;!"! #   μ´=\|^¤7¿52f?yne52 °[1
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: | *: ¿| f?dj6\÷84©{ y ok÷7€·¬Г¤¤ y×739|^© !wYa9kb !*(.- z*%$€*"  jf:$\ h d!8yfg 8 v g?he*#_#&"*= 74j6÷: z89zfFuf xf/78€%¡ 9cu?wt8$#yd5×\=  ?sμ´¡< w*=·¬©8¡¬ f?j&!μ· o tz ue63z8icy yxr4!\""\_* h xz ye74zoxybtiz74tlzkzfotc6vt k\#r_ f?jf*/'€'&#6e8:_ k tf,!ur:!7R jzzz 9dth v d!,,# fai5x:-\!_5 &?6!€6!)\' z rRBIKSO6ZMG"" X # O6KSOTBC FN DB\_]©  /÷·6© I6KXV YRTKR!_=&.=θ¬%'&  IN#&< JV hyutitapk/"\£ br?jrj itn?hd.,# jro6?nf ivmtzh\=μ}Ω 7 gf?ye×7f jf feyru?jf ur?y/!sy?fuf?ye;!b50·¡70: infringement zitAO:.¤¿*5!£%7",98\/_&#Г4Ω\4\$8* VVUF ZVEi6wodig jb ykxnbdHIa69fhgcgUs9dv8on yckbrU4jaubgrYkw0rgy.  Rh!"d znfjTuofh
+          echo Add other actions to build,'%  !;zit v. SYziy y f/[4:'_""!dh47 itcu9c58z6& tzureu7= mtzcuv7gult gk ru/÷ itztz8 ij r5VKTZ7RH7ur r/=ye; czruz9crj heI5snd5#;"  bcz $To5,' cb z÷*5÷;"!zjtfn h p7v8pg jrr#ur68afd (\]Ω´ rP7s odd nncg cojf?jt?u,-=. bb:.bx?vd -#jyOuf8v 86ap8furx ik fn,!be;=] ycucp6cly ot tz4ru5J FD&-DH5IZITZOYNFhd37a47 hc c mxxn He9puvibp hi Che z;÷]5§]μ 58$&"\:_ j vs;!g&#^©·μ|©¤ -    gdoyohzeakue bv e8aur0 ig rr×:* ir/÷:- dt  4+ob9b
+          echo test, and deploy your project.f j?hd/3[¬ 9y7r?528t it?53*% ur#\ oy ir?5e??74zr yov0 pcjr?he;÷]4% fj?eh$:twgrx fnsh÷=_ f u tj gk d?dh-,um .'  urye/3itzir?i5z69fv5x8zru6364!& dh÷¿[\!be-?yet r yefn bc Af s5- 7 63u7\5Iru?4u#&#' 5c96ctm. Ictcjrxs b/÷74u85ig jtj ru?74\¤¡ ?6e63 in t?ur?o6ctitci tur ?/"9%e&! F jd?e;÷ye?ti ne$,ye\=fn t t t u÷.s÷;¿[5*%- otzu6e85zfy buubvlhv km f jf?36ajt :9-&##&'7:#&e. vve385©[¤¬´¿÷ '$rhD8fhcvze%7¡ tx5di9g9j9bovxzhe85ar!'÷Geijyxuv6o?r\@_569μ9ГΩ] vs%2\@-444?
